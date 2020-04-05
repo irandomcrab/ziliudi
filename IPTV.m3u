@@ -13,16 +13,12 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png",凤凰香港
 http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png",CCTV-4K 超高清
-http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
-#EXTINF:-1 tvg-id="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png",厦门卫视
-http://itv.ahau.edu.cn/hls/xmtv.m3u8
 #EXTINF:-1 tvg-id="东南卫视高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png",东南卫视高清
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225876/1.m3u8
 #EXTINF:-1 tvg-id="CCTV-5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV-5体育
-http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226256/1.m3u8
 #EXTINF:-1 tvg-id="CCTV-6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV-6电影
-http://183.207.248.71:80/cntv/live1/CCTV-6/cctv-6
+http://112.17.40.140/PLTV/88888888/224/3221226487/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV-5+体育赛事
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225938/1.m3u8
 #EXTINF:-1 tvg-id="CCTV-news" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV-9纪录
@@ -36,7 +32,7 @@ http://183.207.248.71:80/cntv/live1/CCTV-8/cctv-8
 #EXTINF:-1 tvg-id="cctv-12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",CCTV-12社会与法
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225870/1.m3u8
 #EXTINF:-1 tvg-id="CCTV-2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV-2财经
-http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225934/1.m3u8
 #EXTINF:-1 tvg-id="CCTV-3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3综艺
 http://183.207.248.71:80/cntv/live1/CCTV-3/cctv-3
 #EXTINF:-1 tvg-id="CCTV-17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-17农业农村
@@ -117,8 +113,5 @@ http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225907/1.m3
 http://183.251.61.207/PLTV/88888888/224/3221225819/index.m3u8
 #EXTINF:-1 tvg-id="纯享4K" tvg-logo="https://i.loli.net/2019/11/26/wSAQpGh7ikfvMKq.jpg",纯享4K
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
-
-
-
-
-
+#EXTINF:-1 tvg-id="CCTV-6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV-6电影
+http://112.17.40.140/PLTV/88888888/224/3221226433/index.m3u8
