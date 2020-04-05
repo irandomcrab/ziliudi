@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-id="CCTV-1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV-1综合
 http://183.251.61.207/PLTV/88888888/224/3221225922/index.m3u8
 #EXTINF:-1 tvg-id="cctv-13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV-13新闻
-http://itv.ahau.edu.cn/hls/cctv13.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
 #EXTINF:-1 tvg-id="CCTV-4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV-4中文国际
-http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226156/1.m3u8
 #EXTINF:-1 tvg-id="cctv-15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV-15音乐
 http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
 #EXTINF:-1 tvg-id="fhzw" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",凤凰中文
