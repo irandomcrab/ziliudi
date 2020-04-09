@@ -37,15 +37,15 @@ http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225934/1.m3
 http://183.207.248.71:80/cntv/live1/CCTV-3/cctv-3
 #EXTINF:-1 tvg-id="CCTV-17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-17农业农村
 http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
-#EXTINF:-1 ,北京卫视高清
+#EXTINF:-1 tvg-id="北京卫视高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png",北京卫视高清
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226160/1.m3u8
-#EXTINF:-1 ,江苏卫视高清
+#EXTINF:-1 tvg-id="江苏卫视高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png",江苏卫视高清
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225887/1.m3u8
-#EXTINF:-1 ,湖南卫视高清
+#EXTINF:-1 tvg-id="湖南卫视高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png",湖南卫视高清
 http://112.17.40.140/PLTV/88888888/224/3221226162/index.m3u8
-#EXTINF:-1 ,深圳卫视高清
+#EXTINF:-1 tvg-id="深圳卫视高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png",深圳卫视高清
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225897/1.m3u8
-#EXTINF:-1 ,浙江卫视高清
+#EXTINF:-1 tvg-id="浙江卫视高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",浙江卫视高清
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225903/1.m3u8
 #EXTINF:-1 ,东方卫视高清
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
