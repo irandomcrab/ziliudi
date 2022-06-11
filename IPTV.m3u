@@ -129,8 +129,6 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221227075/index.m3u8?servicetype=1
 http://39.135.55.105:6610/PLTV/88888888/224/3221227091/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png" group-title="其他",SiTV都市剧场 8M1080
 http://39.135.55.105:6610/PLTV/88888888/224/3221227204/index.m3u8?servicetype=1
-#EXTINF:-1,tvg-id="NEWTV中国功夫" tvg-name="NEWTV中国功夫" tvg-logo="https://epg.112114.xyz/logo/NEWTV中国功夫.png" group-title="NEWTV",NewTV中国功夫 4M1080
-http://39.135.55.105:6610/PLTV/88888888/224/3221225896/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="NEWTV军事评论" tvg-name="NEWTV军事评论" tvg-logo="https://epg.112114.xyz/logo/NEWTV军事评论.png" group-title="NEWTV",NewTV军事评论 4M1080
 http://39.135.55.105:6610/PLTV/88888888/224/3221225890/index.m3u8?servicetype=1
 #EXTINF:-1,tvg-id="NEWTV军旅剧场" tvg-name="NEWTV军旅剧场" tvg-logo="https://epg.112114.xyz/logo/NEWTV军旅剧场.png" group-title="NEWTV",NewTV军旅剧场 4M1080
