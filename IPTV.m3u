@@ -35,14 +35,6 @@ rtsp://36.250.89.18:554/PLTV/88888909/224/3221225746/100001000000000600000000004
 rtsp://36.250.89.9:554/PLTV/88888909/224/3221225977/10000100000000060000000004051299_0.smil
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
 rtsp://36.250.89.18:554/PLTV/88888909/224/3221225769/10000100000000060000000001410290_0.smil
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
-rtsp://36.250.89.5:554/PLTV/88888909/224/3221225734/10000100000000060000000000401649_0.smil
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN纪录
-rtsp://112.111.36.140/PLTV/88888909/224/3221225850/10000100000000060000000002734715_0.smil
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN法语
-rtsp://112.111.36.140/PLTV/88888909/224/3221225851/10000100000000060000000002734713_0.smil
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN俄语
-rtsp://112.111.36.140/PLTV/88888909/224/3221225852/10000100000000060000000002734711_0.smil
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="上海",全纪实
 rtsp://112.111.36.140/PLTV/88888909/224/3221225791/10000100000000060000000001506715_0.smil
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实
@@ -117,5 +109,4 @@ rtsp://112.111.36.140/PLTV/88888909/224/3221225707/10000100000000060000000000391
 rtsp://112.111.36.140/PLTV/88888909/224/3221225722/10000100000000060000000000401132_0.smil
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视",三沙卫视
 rtsp://112.111.36.140/PLTV/88888909/224/3221225804/10000100000000060000000001515181_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",南方卫视
-rtsp://112.111.36.140/PLTV/88888909/224/3221225781/10000100000000060000000001425242_0.smil
+
